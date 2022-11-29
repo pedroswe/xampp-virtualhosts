@@ -83,7 +83,7 @@ You can also add them to your specific language folder, i.e. `es` folder's files
 ## Result
 
 
-`httpd-vhosts.conf`
+### `httpd-vhosts.conf`
 
 ```
 # Site: Site1
@@ -108,7 +108,7 @@ Listen 8002
 #</VirtualHost>
 ```
 
-`Browser`
+### `Browser`
 
 ### All sites are actives
 ![](./sites.JPG)
